@@ -1,6 +1,6 @@
 {
     "name": "user/renovate-php",
     "require": {
-        "aws/aws-sdk-php": "3.342.27"
+        "aws/aws-sdk-php": "3.343.4"
     }
 }
