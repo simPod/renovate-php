@@ -1,0 +1,12 @@
+{
+    "name": "user/renovate-php",
+    "require": {
+        "aws/aws-sdk-php": "3.342.28"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://whatever.com"
+        }
+    ]
+}
