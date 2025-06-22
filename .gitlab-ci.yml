@@ -1,6 +1,6 @@
 Renovate:
   image:
-    name: ghcr.io/renovatebot/renovate:40
+    name: ghcr.io/renovatebot/renovate:41
 
   variables:
     LOG_LEVEL: 'debug'
